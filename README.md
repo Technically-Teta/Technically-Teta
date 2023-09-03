@@ -1,9 +1,8 @@
 # Technically-Teta
 <h1 align="center">Hi 👋, I'm Samelia Teta Quioh</h1>
-<h3 align="center">A passionate Fullstack Developer Apprentice currently the Fulltime SWE bootcamp @ Techtonica </h3>
+<h3 align="center">A passionate Fullstack Developer Apprentice currently in the Fulltime SWE bootcamp @ Techtonica </h3>
 
 ![High School Freshmen (Instagram Post (Square))](https://github.com/Technically-Teta/Technically-Teta/assets/52463043/b494add7-55b8-4fa0-8dd1-b283f55f5d3d)
-
 
 - 🌱 I’m currently learning **The PERN stack**
 
