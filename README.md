@@ -1,7 +1,10 @@
 # Technically-Teta
 <h1 align="center">Hi 👋, I'm Samelia Teta Quioh</h1>
 <h3 align="center">A passionate Fullstack Developer Apprentice currently a Fulltime bootcamp</h3>
-
+<p>
+  <img src ="https://drive.google.com/file/d/1EGlR8VYxI7lrx8y3_kScq7z6A34QXtji/view?usp=drive_link "
+</p>
+  
 - 🌱 I’m currently learning **The PERN stack**
 
 - 🤝 I’m looking for help with **Front end Development**
