@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Samelia Teta Quioh</h1>
 <h3 align="center">A passionate Fullstack Developer Apprentice currently a Fulltime bootcamp</h3>
 
+![github](/images/80589.jpg)  
 
-  
 - 🌱 I’m currently learning **The PERN stack**
 
 - 🤝 I’m looking for help with **Front end Development**
